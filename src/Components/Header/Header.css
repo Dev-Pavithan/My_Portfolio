@@ -1,0 +1,40 @@
+  .navbar-center-wrapper {
+    display: flex;
+    justify-content: center;
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+  
+  .navbar {
+    box-shadow: 0 0 10px #88A4E6;
+    width: 100%; 
+    max-width: 1400px;
+    border-radius: 15px;
+  }
+  
+  .custom-navbar-brand {
+    color: #88A4E6 !important;
+    font-size: 1.5rem !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: "Lora", serif;
+  }
+  
+  .custom-navbar-brand:hover {
+    text-decoration: none;
+    background-color: rgba(136, 164, 230, 0.1);
+    border-radius: 5px;
+  }
+  
+  .nav-link {
+    color: #88A4E6 !important;
+    font-size: 1.2rem !important;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    background-color: rgba(136, 164, 230, 0.1);
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,17 @@
+.custom-input::placeholder {
+    color: white; 
+    opacity: 1; 
+}
+
+.card{
+    border: 1px solid rgba(136, 164, 230, 0.3) !important;
+}
+
+.card img{
+    width: 400px;
+    height: 120px;
+}
+
+.card:hover{
+    background-color: rgba(136, 164, 230, 0.1) !important;
+}

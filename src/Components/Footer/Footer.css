@@ -1,0 +1,28 @@
+.footer-container {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .footer-content {
+    border-top: 1px solid rgba(136, 164, 230, 0.5); 
+    max-width: 1300px; 
+    width: 100%; 
+  }
+  
+  .footer-content a {
+    color: #88A4E6; 
+    transition: color 0.3s ease;
+  }
+  
+  .footer-content a:hover {
+    color: #88A4E6; 
+  }
+  
+  .footer-content i {
+    transition: transform 0.3s ease;
+  }
+  
+  .footer-content i:hover {
+    transform: scale(1.1); 
+  }
+  
